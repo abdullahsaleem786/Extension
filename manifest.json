@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+"name": "New Tab Motivation",
+"version": "1.0",
+"description": "Display a random motivations",
+"chrome_url_overrides": {
+    "newtab": "index.html"
+
+},
+"permissions": [],
+"icons":{
+    "128": "icon.png"
+}
+}
